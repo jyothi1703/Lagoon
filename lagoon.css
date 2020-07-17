@@ -1,0 +1,128 @@
+body{
+    overflow-x: hidden;
+}
+.row{
+    margin: 0px !important;
+}
+.navbar{
+    background-color: #1D9D74;
+    padding: 25px;
+}
+.togbar{
+    color: white;
+    font-size: 29px;
+    margin-bottom: 8px;
+}
+.banner{
+    max-width: 100%;
+    height: auto;
+}
+.dropdown-menu{
+    background-color: #1D9D74;
+    border: none;
+    color: white;
+}
+.dropdown-menu a{
+    color: white;
+}
+.dropdown-menu a:hover{
+    background-color: #1D9D74;
+    color: white;
+    cursor: pointer;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.nav-item{
+    margin: 0px 10px;
+}
+span{
+    margin-left: 20px;
+    background-color: white;
+    /* display: inline-block; */
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    /* text-align: center; */
+}
+
+
+.fa{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.fa-bars {
+    margin-left: 0px;
+}
+.logo{
+    margin-left: 24px;
+}
+.fit-image{
+    width: 100%;
+    display: block;
+}
+/* header */
+#header{
+    background-color: #1D9D74;
+    color: white;
+    padding-bottom: 15px;
+}
+#header h1{
+    font-size: 26px;
+    margin-top: 49px;
+    font-weight: bolder;
+}
+.para{
+    font-size: 21px;
+}
+/* cards */
+.crd-btm{
+    margin-bottom: 10px;
+}
+/* service */
+.service{
+    /* width: 350px; */
+}
+.card{
+    border: 1px solid black;
+}
+.ser-pad{
+    background-color: #1D9D74;
+    color: white;
+}
+/* info */
+#info h1{
+    color: #1D9D74;
+    font-weight: bold;
+}
+/* footer */
+#footer{
+    background-color: #1D9D74;
+    color: white;
+}
+#icons{
+    background-color: #1D9D74;
+    font-size: 30px;
+}
+.icon{
+    color: #8ECEBA;
+    padding: 0px 8px;
+}
+.icon:hover{
+    color: white;
+}
+.ftr-btm{
+    margin-bottom: 15px;
+}
+.copy{
+    color: #8ECEBA;
+    font-size: 15px;
+    padding: 50px;
+}
+.copy a{
+    color: #8ECEBA;
+}

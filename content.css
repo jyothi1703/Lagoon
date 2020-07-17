@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+}
+#content h2{
+    color: #1D9D74;
+    font-size: 47px;
+    font-size: bold;
+    padding-bottom: 13px;
+}
+.links a{
+    color: black;
+    text-decoration: underline;
+}
